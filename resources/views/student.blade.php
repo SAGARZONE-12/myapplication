@@ -252,8 +252,8 @@
                             <th>Id</th>
                             <th>Name</th>
                             <th>Email</th>
-                            <th>Phone</th>
                             <th>Address</th>
+                            <th>Phone</th>
                             <th>Actions</th>
                         </tr>
                     </thead>
@@ -269,7 +269,7 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h4 class="modal-title">Add Student</h4>
+                    <h4 class="modal-title">Add student</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
                 </div>
                 <div class="modal-body add_epmployee">
